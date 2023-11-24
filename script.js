@@ -16,8 +16,17 @@ let options = {
     "Pineapple",
     "Pomegranate",
     "Watermelon",
+    "Banana",
   ],
-  animals: ["Hedgehog", "Rhinoceros", "Squirrel", "Panther", "Walrus", "Zebra"],
+  animals: [
+    "Hedgehog",
+    "Rhinoceros",
+    "Squirrel",
+    "Panther",
+    "Walrus",
+    "Zebra",
+    "Elephant",
+  ],
   countries: [
     "India",
     "Hungary",
@@ -25,6 +34,11 @@ let options = {
     "Switzerland",
     "Zimbabwe",
     "Dominica",
+    "Vietnam",
+    "China",
+    "Japan",
+    "Korea",
+    "Rusia",
   ],
 };
 
